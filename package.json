@@ -1,0 +1,23 @@
+{
+  "name": "man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JEMOC/man.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JEMOC/man/issues"
+  },
+  "homepage": "https://github.com/JEMOC/man#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
